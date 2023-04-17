@@ -1219,6 +1219,10 @@ width: 950px;
   .vids2{
     margin-right: 0rem;
   }
+     #welcome{
+    width: 620px;
+    text-align: center;
+  }
 
     }
     @media screen and (max-width:742px) {
@@ -1269,9 +1273,7 @@ margin-top: 2rem;
            #trustedcomp li{
             margin: 0.5rem;
            }
-           #welcome{
-            width: 510px;
-           }
+          
            .main img{
             margin-left: 5rem;
            }
